@@ -1,6 +1,6 @@
 ## Hello. I am Houman.
 
-I am a **tinkerer** trying to understand the systems that govern our world.
+I am a curious **tinkerer** trying to understand the systems that govern our world.
 
 My work centers on **deciphering** the noise of the information age. I look for the patterns to create systems that clarify rather than clutter. Whether shaping an insight, orchestrating AI agents or designing new tools, I'm trying to apply **the art of selection and placement**: finding the right components and arranging them into a coherent whole.
 
@@ -17,10 +17,4 @@ My work centers on **deciphering** the noise of the information age. I look for 
 > 📂 **The Code:** [Link to Repository](https://github.com/houmanrajabi/)
 >
 > **An Open Invitation.**
-> An Open Invitation. This project is a work in progress, and I value the "wisdom of the crowd." we have seen code grows best when shared. I have set up the logic, but I am looking for fresh eyes to help refine the flow. If you have a moment to glance through the repository, I would love to know what you see. Is there a smoother path? A bottleneck I missed? Let’s refine this together.
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=houmanrajabi&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=houmanrajabi&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph"  />
-</div>
+> This project is a work in progress, and I value the "wisdom of the crowd." we have seen code grows best when shared. I have set up the logic, but I am looking for fresh eyes to help refine the flow. If you have a moment to glance through the repository, I would love to know what you see. Is there a smoother path? A bottleneck I missed? Let’s refine this together.
