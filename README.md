@@ -1,6 +1,6 @@
-# Hello. I am Houman.
+## Hello. I am Houman.
 
-I am a curious builder **about the systems that govern our world**.
+I am a **tinkerer** trying to understand the systems that govern our world.
 
 My work centers on **deciphering** the noise of the information age. I look for the patterns to create systems that clarify rather than clutter. Whether shaping an insight, orchestrating AI agents or designing new tools, I'm trying to apply **the art of selection and placement**: finding the right components and arranging them into a coherent whole.
 
@@ -17,11 +17,9 @@ My work centers on **deciphering** the noise of the information age. I look for 
 > 📂 **The Code:** [Link to Repository](https://github.com/houmanrajabi/)
 >
 > **An Open Invitation.**
-> This project is a work in progress, and I value the "wisdom of the crowd." If you explore the code and see a way to optimize the logic or a flaw in the design, I am eager to hear your thoughts. Your feedback helps turn good code into great systems.
+> An Open Invitation. This project is a work in progress, and I value the "wisdom of the crowd." we have seen code grows best when shared. I have set up the logic, but I am looking for fresh eyes to help refine the flow. If you have a moment to glance through the repository, I would love to know what you see. Is there a smoother path? A bottleneck I missed? Let’s refine this together.
+<br>
 
----
-
-### Dialogue
-I believe that innovation happens at the intersection of different perspectives. If you are **charting** similar complexities or simply want to discuss the future of these technologies, I am always open to **exchanging ideas**.
-
-- [LinkedIn](https://linkedin.com/in/houmanrajabi)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=houmanrajabi&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" width="100%" alt="activity graph" />
+</div>
