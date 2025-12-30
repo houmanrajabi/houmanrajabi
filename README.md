@@ -21,5 +21,6 @@ My work centers on **deciphering** the noise of the information age. I look for 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=houmanrajabi&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" width="100%" alt="activity graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=houmanrajabi&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=houmanrajabi&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph"  />
 </div>
