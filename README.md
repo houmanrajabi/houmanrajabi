@@ -12,7 +12,7 @@ Background in recommendation engines, search relevance, and demand forecasting.
 
 Building a RAG system to query FOMC documents. Currently implementing semantic chunking with vLLM for better retrieval.
 
-**→ [View the repository](https://github.com/houmanrajabi/)**
+**→ [View the repository](https://github.com/houmanrajabi/open-market-intelligence)**
 
 ## Interests
 
