@@ -1,6 +1,8 @@
 # Hi. I'm Houman.
 
-Master's student in Language Technologies at University of Turin. Background in recommendation engines, search relevance, and demand forecasting.
+Master's student in Language Technologies at University of Turin. Graduating soon.
+
+Background in recommendation engines, search relevance, and demand forecasting.
 
 ---
 
