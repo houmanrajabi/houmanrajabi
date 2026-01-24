@@ -28,7 +28,7 @@ Building a RAG system to query FOMC documents. Currently implementing semantic c
 
 ---
 
-> *"In a world that relentlessly bombards us with input, data is merely noise. It is only when we weave the connections between the pieces that noise transforms into meaning."*
+> *The Noise of the Information Age*
 
 ```mermaid
 graph LR
