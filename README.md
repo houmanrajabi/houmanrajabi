@@ -18,6 +18,13 @@ Building a RAG system to query FOMC documents. Currently implementing semantic c
 > 
 > This project is a work in progress, and I value fresh eyes to help refine the flow. If you have a moment to glance through the repository, I'd love to know what you see. A smoother  path? or a bottleneck I missed?
 --- 
+
+**Gemini app**
+
+**→ [View the repository](https://github.com/houmanrajabi/gemini-no-switch)**
+> 
+> If you see a better approach or something missing, suggest it — or open a PR yourself. Either way, it’s a win-win, we both benefit.
+---
 ## Interests
 
 - Turning messy data into structured insight
